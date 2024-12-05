@@ -1,7 +1,0 @@
-{
-  "contentName": "testAvi",
-  "id": "0122e2f1-5e67-40fc-a695-e1ad7ebada53",
-  "contentType": "Operations-ConfigTemplate",
-  "keyValues": {"location": "vCenter Server%2FtestAvi"},
-  "descendents": []
-}
